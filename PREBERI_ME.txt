@@ -1,0 +1,3 @@
+To je mapzoomdata za mapo ki jo uporabljamo na serverju. 
+Žal mora vsak uporabnik ce želi imeti zoom mape ki jo uporabljamo to kopirati v /FiveM Application Data/citizen/common/data/ui/ na svojem racunalniku. 
+Pot je že pripravljena vse kar morate narediti je da najdete FiveM Application Data in prilepite
